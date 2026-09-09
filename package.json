@@ -1,0 +1,16 @@
+{
+  "name": "ticketingbe",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Scyori",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
