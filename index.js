@@ -4,6 +4,7 @@ const cors = require('cors');
 
 //Init
 const app = express();
+const nuvo = "Nuevo";
 
 //Middleware
 app.use(cors());
